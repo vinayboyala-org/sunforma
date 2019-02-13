@@ -1,1 +1,2 @@
-Hi This is a new document created for updating new changes 
+Hi This is a new document created for updating new changes.
+New change.
